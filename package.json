@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "nuxt-electron-vuetify",
   "private": true,
   "type": "module",
   "scripts": {
